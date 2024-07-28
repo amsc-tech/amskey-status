@@ -11,7 +11,7 @@ sites:
 status-website:
   cname: status.amskey.f5.si
   # baseUrl: /your-repo-name
-  logoUrl:https://portal.amskey.f5.si/assets/logo.png
+  logoUrl: https://portal.amskey.f5.si/assets/logo.png
   name: Amskey Status
   introTitle: "Amskey Status"
   introMessage: Status of Amskey and related services
