@@ -10,31 +10,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 767,
-    "timeDay": 767,
-    "timeWeek": 767,
-    "timeMonth": 767,
-    "timeYear": 767,
+    "time": 616,
+    "timeDay": 616,
+    "timeWeek": 616,
+    "timeMonth": 616,
+    "timeYear": 616,
     "dailyMinutesDown": {}
   },
   {
     "name": "Media Server",
-    "url": "https://media.amsc.f5.si",
+    "url": "https://media.amsc.f5.si/amskey",
     "icon": "https://icons.duckduckgo.com/ip3/media.amsc.f5.si.ico",
     "slug": "media-server",
     "status": "down",
-    "uptime": "6.95%",
-    "uptimeDay": "6.95%",
-    "uptimeWeek": "6.95%",
-    "uptimeMonth": "6.95%",
-    "uptimeYear": "6.95%",
-    "time": 630,
-    "timeDay": 630,
-    "timeWeek": 630,
-    "timeMonth": 630,
-    "timeYear": 630,
+    "uptime": "0.95%",
+    "uptimeDay": "0.95%",
+    "uptimeWeek": "0.95%",
+    "uptimeMonth": "0.95%",
+    "uptimeYear": "0.95%",
+    "time": 660,
+    "timeDay": 660,
+    "timeWeek": 660,
+    "timeMonth": 660,
+    "timeYear": 660,
     "dailyMinutesDown": {
-      "2024-07-28": 0
+      "2024-07-28": 2
     }
   }
 ]
