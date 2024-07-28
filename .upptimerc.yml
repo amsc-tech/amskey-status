@@ -21,5 +21,68 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
+i18n:
+    activeIncidents: 進行中のインシデント
+    allSystemsOperational: 全システムが稼働中です
+    incidentReport: "インシデント #$NUMBER のレポート →"
+    activeIncidentSummary: $DATE に開かれ、$POSTS 件の投稿があります
+    incidentTitle: インシデント $NUMBER の詳細
+    incidentDetails: インシデントの詳細
+    incidentFixed: 修正済み
+    incidentOngoing: 進行中
+    incidentOpenedAt: 開始日時
+    incidentClosedAt: 終了日時
+    incidentViewOnGitHub: GitHubで表示して購読する
+    incidentCommentSummary: $DATE に $AUTHOR が投稿
+    incidentBack: ← 全てのインシデントに戻る
+    pastIncidents: 過去のインシデント
+    pastIncidentsResolved: $MINUTES 分で解決され、$POSTS 件の投稿があります
+    liveStatus: ライブステータス
+    overallUptime: "全体の稼働時間: $UPTIME"
+    overallUptimeTitle: 全体の稼働時間
+    averageResponseTime: "平均応答時間: $TIMEms"
+    averageResponseTimeTitle: 平均応答時間
+    sevelDayResponseTime: 過去7日間の応答時間
+    responseTimeMs: 応答時間 (ms)
+    up: 稼働中
+    down: ダウン
+    degraded: 速度低下
+    ms: ms
+    loading: 読み込み中
+    navGitHub: GitHub
+    footer: このページは[オープンソース]($REPO)であり、[Upptime](https://upptime.js.org)によって動作しています
+    rateLimitExceededTitle: レート制限を超えました
+    rateLimitExceededIntro: あなたは1時間に行えるリクエストの数を超えたため、再度アクセスするには待つ必要があります。もしくは、GitHubの個人用アクセス トークンを追加してこのサイトの利用を続けることができます。
+    rateLimitExceededWhatDoesErrorMean: このエラーは何を意味しますか？
+    rateLimitExceededErrorMeaning: このウェブサイトはGitHub APIを使用して、私たちのサイトのステータスに関するリアルタイムデータにアクセスしています。デフォルトでは、GitHubは各IPアドレスに対して1時間に60リクエストを許可していますが、あなたはその制限を消費しました。
+    rateLimitExceededErrorHowCanFix: どうすれば解決できますか？
+    rateLimitExceededErrorFix: 1時間待てば、あなたのIPアドレスの制限が復元されます。もしくは、GitHubの個人用アクセス トークンを追加することで、1時間あたり追加で5,000リクエストが可能になります。
+    rateLimitExceededGeneratePAT: 個人用アクセス トークンの生成方法を学ぶ
+    rateLimitExceededHasSet: あなたは個人用アクセス トークンを設定済みです。
+    rateLimitExceededRemoveToken: トークンを削除する
+    rateLimitExceededGitHubPAT: GitHub個人用アクセス トークン
+    rateLimitExceededCopyPastePAT: トークンをコピーして貼り付ける
+    rateLimitExceededSaveToken: トークンを保存する
+    errorTitle: エラーが発生しました
+    errorIntro: 最新のステータス詳細を取得しようとした際にエラーが発生しました。
+    errorText: 数分後に再度お試しください。
+    errorHome: ホームページに戻る
+    pastScheduledMaintenance: 過去の計画されていたメンテナンス
+    scheduledMaintenance: 計画されているメンテナンス
+    scheduledMaintenanceSummaryStarted: $DATE に開始し、$DURATION 分間の予定です
+    scheduledMaintenanceSummaryStarts: $DATE に開始し、$DURATION 分間の予定です
+    startedAt: 開始日時
+    startsAt: 開始予定日時
+    duration: 期間
+    durationMin: $DURATION 分
+    incidentCompleted: 完了
+    incidentScheduled: 予定
+    duration24H: 24時間
+    duration7D: 7日
+    duration30D: 30日
+    duration1Y: 1年
+    durationAll: 全期間
+    locale: ja-JP
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
