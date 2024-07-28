@@ -6,7 +6,7 @@ sites:
   - name: Amskey
     url: https://amskey.f5.si
   - name: Media Server
-    url: https://media.amsc.f5.si/amskey
+    url: https://media.amsc.f5.si/amskey/am/daf124c9-34cc-4f16-9c20-4ed3fb66dcdb.png
 
 status-website:
   cname: status.amskey.f5.si
