@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/misskey.rest.ico",
     "slug": "misskey-rest",
     "status": "up",
-    "uptime": "95.23%",
-    "uptimeDay": "95.23%",
-    "uptimeWeek": "95.23%",
-    "uptimeMonth": "95.23%",
-    "uptimeYear": "95.23%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 792,
     "timeDay": 792,
     "timeWeek": 792,
     "timeMonth": 792,
     "timeYear": 792,
-    "dailyMinutesDown": {
-      "2024-07-31": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "あむすきー.one",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/amskey.one.ico",
     "slug": "one",
     "status": "up",
-    "uptime": "95.31%",
-    "uptimeDay": "95.31%",
-    "uptimeWeek": "95.31%",
-    "uptimeMonth": "95.31%",
-    "uptimeYear": "95.31%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2391,
     "timeDay": 2391,
     "timeWeek": 2391,
     "timeMonth": 2391,
     "timeYear": 2391,
-    "dailyMinutesDown": {
-      "2024-07-31": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "MinIO",
