@@ -1,7 +1,7 @@
 url: https://misskey.rest
-status: up
-code: 200
-responseTime: 702
-lastUpdated: 2024-08-19T23:21:06.833Z
+status: down
+code: 502
+responseTime: 10024
+lastUpdated: 2024-08-20T21:41:56.080Z
 startTime: 2024-07-31T21:04:43.183Z
 generator: Upptime <https://github.com/upptime/upptime>
