@@ -5,10 +5,10 @@ repo: amskey-status # The name of this repository
 sites:
   - name: misskey.rest
     url: https://misskey.rest
-  - name: あむすきー.one
-    url: https://amskey.one
-  - name: MinIO
-    url: https://s3.amskey.one/amsc/misskey-rest/d688e3b7-cd01-42ea-86ee-7b05cdc5a110.webp
+#  - name: あむすきー.one
+#    url: https://amskey.one
+  - name: Media Server
+    url: https://media.misskey.rest
 
 status-website:
   cname: status.amskey.one
