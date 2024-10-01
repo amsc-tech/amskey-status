@@ -1,7 +1,7 @@
 url: https://media.misskey.rest
-status: down
-code: 502
-responseTime: 3057
-lastUpdated: 2024-10-01T05:30:56.128Z
+status: up
+code: 200
+responseTime: 950
+lastUpdated: 2024-10-01T08:35:01.032Z
 startTime: 2024-09-18T04:44:47.105Z
 generator: Upptime <https://github.com/upptime/upptime>
